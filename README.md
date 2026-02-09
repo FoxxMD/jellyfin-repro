@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository demonstrates that jellyfin/jellfin-sdk-typescript (`@jellyfin/sdk` npm package) does contain compatible typings for modern nodejs projects.
+This repository demonstrates that jellyfin/jellfin-sdk-typescript (`@jellyfin/sdk` npm package) does not contain compatible typings for modern nodejs projects.
 
 See [Are The Types Wrong?](https://arethetypeswrong.github.io/?p=%40jellyfin%2Fsdk%400.13.0) for independent verification that type resolution is not correct.
 
