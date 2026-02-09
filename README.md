@@ -25,3 +25,7 @@ Open [`index.ts`](/index.ts) in your IDE and observe that the `Jellyfin` import 
 ```
 Module '"@jellyfin/sdk"' has no exported member 'Jellyfin'.ts(2305)
 ```
+
+___
+
+Issue reported [here](https://github.com/jellyfin/jellyfin-sdk-typescript/issues/992)
